@@ -1,7 +1,7 @@
 # Santander Coders - Curso Online
 
 <p align="center">
-  <img src="./img/curso_trilha_data_science.jfif" alt="Trilha Data Science" width="500"/>
+  <img src="./img/curso_trilha_data_science.jfif" alt="Trilha Data Science" width="1918"/>
 </p>
 
 
